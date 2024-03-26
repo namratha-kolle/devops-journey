@@ -1,0 +1,3 @@
+New file created manually 
+//command used is git add 
+//for commiting git commit 
